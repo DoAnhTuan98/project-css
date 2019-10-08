@@ -1,0 +1,49 @@
+/* .padding {
+    padding: 8px 10px;
+} */
+
+/* .right_main div input {
+    padding: 8px 10px;
+    width: 100%;
+} */
+.right_main div {
+    padding: 0px;
+}
+
+.right_main div input {
+    width: 172px;
+    height: auto;
+    padding: 8px 10px;
+    color: #999;
+    font-size: 18px;
+    border-width: 1px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+}
+
+.right_main .margin-bottom10px {
+    margin-bottom: 10px;
+}
+
+.right_main .margin-right8px {
+    margin-right: 8px;
+}
+
+.right_main .flexbox .padding-left0px {
+    padding-left: 0px;
+}
+
+.right_main .width194px {
+    width: 194px;
+    
+}
+
+.flexbox {
+    padding-left: 0px;
+    display: flex;
+}
+
+.right_main .width374px input{
+    width: 374px;
+}
+
